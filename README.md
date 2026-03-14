@@ -7,23 +7,6 @@
 - 🎯 Passionate about **ML Engineering** and building end-to-end machine learning systems
 - 🚀 **Actively seeking internships** at top tech companies (Yandex, Sber, Tinkoff, VK, etc.)
 
-### 🔥 Featured Projects
-
-#### 🤖 [AI Model Constructor](https://github.com/Foutx/Ai-model-constructor)
-**No-code ML modeling tool** with GUI interface for building and evaluating ML models (RandomForest, Gradient Boosting, Linear Regression) for regression and classification tasks.
-
-#### 🎵 [Music Recommendation System](https://github.com/Foutx/Music-Recommendation-System)
-**ML-powered music recommender** built with FastAPI, XGBoost, and SQLite. Analyzes audio features and user preferences to generate personalized track recommendations.
-
-### 🏆 Kaggle Competitions
-- **Binary Classification with a Bank Dataset** - **1848/3365** (Top 55%)
-- **Predict the Introverts from the Extroverts** - **1409/4329** (Top 33%)
-
-### 🏅 Hackathons & Events
-- **Yandex World Cup 2025** - [Certificate PDF](https://drive.google.com/file/d/1UVmKVxIUjYQPEBKmfZ6P5iLikUq85PyM/view?usp=sharing)
-- **Sber Ural Code Hackathon** - [Certificate PDF](https://drive.google.com/file/d/1Ncnh6ewu7dz3s1ab2I9WKxpiWaLx3IAk/view?usp=sharing) 
-- **UrFU Top-Track Selection Hackathon** - [Certificate PDF](https://drive.google.com/file/d/1NnA6iFFu2OawIEbbhfLIevLWhXx3Icvr/view?usp=sharing)
-
 ### 🛠️ Tech Stack & Skills
 
 #### **Programming & Core ML**
@@ -39,13 +22,6 @@
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎯 Current Focus
-- 🔭 Exploring **MLOps practices** and production deployment
-- 📖 Studying **advanced ML algorithms** and neural network architectures  
-- 🛠 Building **end-to-end ML pipelines** with CI/CD integration
-- 💡 Contributing to **open-source ML projects**
-- 📊 Preparing for more **Kaggle competitions** to improve rankings
 
 ### 💼 Career Goals
 I'm **actively seeking internship opportunities** at leading technology companies where I can:
